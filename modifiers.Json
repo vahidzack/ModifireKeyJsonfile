@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "public",
+        "Description": "The public modifier allows access from any other code."
+    },
+    {
+        "Name": "private",
+        "Description": "The private modifier restricts access to the containing type or member."
+    },
+    {
+        "Name": "protected",
+        "Description": "The protected modifier allows access only within the containing type or derived types."
+    },
+    {
+        "Name": "internal",
+        "Description": "The internal modifier allows access within the same assembly."
+    },
+    {
+        "Name": "static",
+        "Description": "The static modifier indicates that a member belongs to the type itself, rather than to a specific instance."
+    }
+]
